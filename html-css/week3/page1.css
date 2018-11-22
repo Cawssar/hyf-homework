@@ -1,0 +1,93 @@
+.logo {
+  float: left;
+  margin: 10px;
+  border: 1px solid;
+  width: 6%;
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #a9a9a9;
+}
+.navigation {
+  float: right;
+  margin: 10px;
+  border: 1px solid;
+  width: 30%;
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2.5em;
+  background-color: #a9a9a9;
+}
+h1 {
+  font-size: 40px;
+  margin-left: 10px;
+  clear: both;
+}
+.item1 {
+  margin-left: 10px;
+  margin-right: 700px;
+}
+h2 {
+  margin-left: 10px;
+}
+.progress {
+  font-size: 130%;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+.box {
+  display: flex;
+  margin-left: 10px;
+  border: 1px solid #a9a9a9;
+  width: 98%;
+  min-height: 50px;
+}
+.box1 {
+  border: 1px solid #a9a9a9;
+  width: 20%;
+  min-height: 50px;
+  background-color: #a9a9a9;
+}
+.nice {
+  margin-left: 20px;
+}
+.information {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 300px;
+  margin-right: 400px;
+  justify-content: space-around;
+  line-height: 3em;
+}
+.profile-description {
+  display: flex;
+  flex-direction: row;
+}
+.p {
+  width: 20%;
+  margin-left: 10px;
+}
+
+#profile {
+  width: 600%;
+  min-height: 80px;
+}
+.next {
+    float: right;
+    margin: 10px;
+    border: 1px solid;
+    width: 20%;
+    min-height: 80px;
+    font-size:28px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2.5em;
+    background-color: #a9a9a9;
+  }
